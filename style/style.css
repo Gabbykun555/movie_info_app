@@ -1,0 +1,31 @@
+body, html {
+   background-color: gainsboro;
+}
+
+.navbar-brand {
+   font-family: Helvetica;
+}
+
+#break {
+    width: 100%;
+}
+
+#movies img, #movie img {
+    width: 80%;
+    margin-top: 15%; 
+}
+
+
+#movies .col-md-3 .well {
+    background-color: white;
+    border-radius: 0.4em;
+    margin-bottom: 7%;
+}
+
+#movies col-md-3 img {
+}
+
+.jumbotron {
+    background-color: cornflowerblue;
+}
+
